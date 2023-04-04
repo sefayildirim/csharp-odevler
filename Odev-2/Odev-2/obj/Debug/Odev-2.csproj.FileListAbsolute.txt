@@ -1,0 +1,11 @@
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\bin\Debug\Odev-2.exe.config
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\bin\Debug\Odev-2.exe
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\bin\Debug\Odev-2.pdb
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.AssemblyReference.cache
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev_2.Form1.resources
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev_2.Properties.Resources.resources
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.GenerateResource.cache
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.exe
+C:\xampp\htdocs\c-sharp\Odev-2\Odev-2\obj\Debug\Odev-2.pdb
