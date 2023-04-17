@@ -1,0 +1,11 @@
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\bin\Debug\Odev-5.exe.config
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\bin\Debug\Odev-5.exe
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\bin\Debug\Odev-5.pdb
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.csproj.AssemblyReference.cache
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.csproj.SuggestedBindingRedirects.cache
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev_5.Form1.resources
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev_5.Properties.Resources.resources
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.csproj.GenerateResource.cache
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.exe
+C:\xampp\htdocs\c-sharp\Odevler\Odev-5\Odev-5\obj\Debug\Odev-5.pdb
